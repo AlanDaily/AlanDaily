@@ -1,29 +1,8 @@
-### Hi there 👋
+Hi 👋 大家好 我是米叔，从事web 前端开发相关工作
+=========================================
 
-<!--
-**AlanDaily/AlanDaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi 👋 My name is Peter Parker
-=============================
-
-Web Developer
--------------
-
-* 🌍  I'm based in London, England
-* 🖥️  See my portfolio at [peterparker.com](http://peterparker.com)
-* ✉️  You can contact me at [peter@pparker.com](mailto:peter@pparker.com)
-* 🚀  I'm currently working on [peterparker.com](http://peterparker.com)
-* 🧠  I'm learning a new JavaScript framework
-* 🤝  I'm open to collaborating on interesting JavaScript projects
-* ⚡  I moonlight as a super hero
+* 🌍  工作地点: 北京
+* ✉️   联系方式: panda-daily@outlook.com | panda.daily.cn@gmail.com
+* 🧠  正在学习 python
+* 🤝  欢迎加入 [Panda-New-Century](https://github.com/Panda-New-Century)
+* 🚀  Pandadaily 熊猫科技日报创始人 [pandadaily.com.cn](https://pandadaily.com.cn)
